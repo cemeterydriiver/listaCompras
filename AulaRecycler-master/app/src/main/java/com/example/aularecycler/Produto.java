@@ -12,6 +12,9 @@ public class Produto {
         this.tipo = tipo;
         this.preco = preco;
     }
+    public Produto(){
+
+    }
 
     public String getNome() {
         return nome;
