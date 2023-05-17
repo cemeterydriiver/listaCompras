@@ -20,9 +20,13 @@ O aplicativo implementa um exemplo simples de recycler view com uma tela princip
 ## 🔥[Firebase](https://firebase.google.com/?hl=pt-br)
 > Banco de dados utilizado nessa aplicação para cadastrar os produtos.
 > 
-> [Documentações do Firebase](https://firebase.google.com/docs?hl=pt-br)
+> 📄[Documentações do Firebase](https://firebase.google.com/docs?hl=pt-br)
 > 
-> [Documentação do RealTime Dataset](https://firebase.google.com/docs/database?hl=pt-br)
+> 📄[Documentação do RealTime Dataset](https://firebase.google.com/docs/database?hl=pt-br)
 
+
+## ✍️Autores
+
+__- [@cemeterydriiver](https://www.github.com/cemeterydriiver)__
 
 
