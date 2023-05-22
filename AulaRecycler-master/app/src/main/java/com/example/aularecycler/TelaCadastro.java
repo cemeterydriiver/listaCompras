@@ -3,6 +3,7 @@ package com.example.aularecycler;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;
@@ -21,6 +22,7 @@ public class TelaCadastro extends AppCompatActivity {
     EditText nome, categoria, preco;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        getWindow().setStatusBarColor(Color.rgb(255, 255, 255));
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tela_cadastro);
         getSupportActionBar().hide();
